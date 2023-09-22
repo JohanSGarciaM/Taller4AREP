@@ -14,7 +14,7 @@ public class MainService {
 
 	/**
 	 * Método main encargado de iniciar el servidor HTTP
-	 * @param args
+	 * @param args arguments
 	 * @throws IOException si no establece conexión con el servidor
 	 */
 	public static void main(String[] args) throws IOException{
